@@ -8,5 +8,4 @@ I tried to implement the following:
 - lists
 - images
 - links
-- headers
 - ...and other useful elements previously learned
