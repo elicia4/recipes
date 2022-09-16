@@ -9,3 +9,4 @@ I tried to implement the following:
 - images
 - links
 - ...and other useful elements
+you can view the website here: elicia4.github.io
