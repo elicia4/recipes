@@ -1,4 +1,4 @@
-# odin-recipes
+# recipes
 
 This is a Project about building a basic recipe website using HTML only.
 It consists of a main page with links to a few recipes. 
@@ -8,4 +8,4 @@ I tried to implement the following:
 - lists
 - images
 - links
-- ...and other useful elements previously learned
+- ...and other useful elements
