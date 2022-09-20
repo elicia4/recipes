@@ -1,6 +1,6 @@
 # recipes
 
-This is a Project about building a basic recipe website using HTML only.
+This is a project about building a basic recipe website using HTML only.
 It consists of a main page with links to a few recipes. 
 
 I tried to implement the following:
